@@ -1,0 +1,62 @@
+h1
+{
+    color:indigo;
+    font-size: 4rem;
+}
+
+#green{
+    color: lightseagreen;
+}
+
+
+.red{
+    color:red;
+    background-color:gold;
+}
+
+p{
+    color:darkblue;
+    background-color: springgreen;
+} 
+
+.RGB{
+    color:rgb(0,100,100);
+    background-color: rgb(232,131,200);
+    /* ranges from 0-255  */
+
+}
+
+
+/* for colors go to w3schools for more information */
+
+/* pixel demonstration */
+.pixel1{
+    font-size: 60px;
+    width: 600px;
+    background:blueviolet;
+}
+
+.outer{
+    width:400px;
+    height: 400px;
+    background:red;
+}
+
+.inner{
+    width:50%;
+    height: 50%;
+    background:blue;
+}
+
+.subheading
+{
+    font-family:cursive;
+    font-weight:bold;
+    text-align: center;
+}
+
+.links
+{
+    font-family:cursive;
+    font-weight: bolder;
+}
